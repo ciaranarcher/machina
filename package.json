@@ -1,0 +1,16 @@
+{
+  "name": "machine_example",
+  "description": "Machine example",
+  "version": "0.1.1",
+  "main" : "index.js",
+  "dependencies": {
+    "machina": "0.3.1",
+    "redis": "0.7.x"
+  },
+  "devDependencies": {
+  },
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
